@@ -80,6 +80,12 @@ header .profile-image:hover {
   background: url(../images/experience-header.jpg) no-repeat center;
   background-size: cover;
 }
+
+.header-portfolio {
+  background: url(../images/portfolio.jpg) no-repeat center;
+  background-size: cover;
+}
+
 .tag {
   background-color:#011f4b;
   color: white;
@@ -187,6 +193,7 @@ a.social:hover {
 
 .port-item {
     margin: 0;
+    margin-bottom: 1em;
     position: relative;
 }
 
